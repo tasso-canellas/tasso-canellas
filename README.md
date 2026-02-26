@@ -28,11 +28,6 @@
 
 <p align="left">Sou o Tasso, um entusiasta de inteligência artificial e ciência de dados, com experiência em redes neurais, processamento de imagens e detecção de imagens geradas por IA.  Além disso, tenho experiência com Conda, Python e frameworks populares para aprendizado profundo. Meu objetivo é atuar como Cientista de Dados, Pesquisador de IA ou Engenheiro de IA, contribuindo para avanços na detecção de objetos, de manipulação digital e geração de imagens.<br><br>- 🔭 IA, Ciência de Dados, Processamento de Imagens, Visão Computacional<br>- 📚 Cursando o Bacharelado Interdisciplinar em Ciência e Tecnologia na trilha de Ciência da Computação.</p>
 
-###
-
-<img src="https://raw.githubusercontent.com/tasso-canellas/tasso-canellas/output/snake.svg" alt="Snake animation" />
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
